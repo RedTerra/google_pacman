@@ -10,7 +10,7 @@ version working 100%.
 To play a live version: http://macek.github.com/google_pacman
 
 Or download the source and run it offline.
-
+ i 
 
 
 Sound in Offline Mode
